@@ -3,6 +3,7 @@
 
 /*Imported CSS Files*/
 @import url(navigation.css);
+@import url(hero.css);
 
 * {
     margin: 0;
