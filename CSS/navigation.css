@@ -1,3 +1,5 @@
+/*Global CSS*/
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -7,7 +9,7 @@ nav {
 }
 
 nav h1 {
-    font-size: 4.8rem;
+    font-size: 3.6rem;
     font-family: "Ysabeau Office", sans-serif;
 }
 
@@ -28,6 +30,19 @@ nav .links button {
     border: none;
 }
 
+/*Media Queries*/
+
+@media screen and (max-width:860px) {
+
+    nav h1 {
+        font-size: 3rem;
+    }
+
+    nav .links a {
+        display: none;
+    }
+
+}
 
 
 
