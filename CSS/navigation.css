@@ -11,6 +11,7 @@ nav {
     top: 0;
     width: 100%;
     z-index: 999;
+    color: white;
 }
 
 nav h1 {
@@ -26,13 +27,14 @@ nav .links {
 
 nav .links a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 nav .links button {
     padding: 1rem 1rem;
     border-radius: 25%;
     border: none;
+    background: none;
 }
 
 /*Media Queries*/
