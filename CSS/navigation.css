@@ -34,7 +34,11 @@ nav .links button {
     padding: 1rem 1rem;
     border-radius: 25%;
     border: none;
-    background: none;
+    background: white;
+}
+
+nav .links button .material-symbols-outlined {
+    font-size: 2.8rem !important;
 }
 
 /*Media Queries*/
