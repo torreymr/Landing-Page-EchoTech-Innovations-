@@ -68,5 +68,8 @@ header button {
     header .links {
         gap: 15rem;
     }
+}
 
+@media screen and (min-width: 1420px){
+    
 }
