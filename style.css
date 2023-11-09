@@ -114,7 +114,8 @@ section .text-content {
     border: 1px solid lightgray;
     color: white;
     border-radius: 10px;
-}
+    padding: 1rem 1rem;
+};
 
 
 
