@@ -1,5 +1,38 @@
+/*Global CSS Mobile First*/
+nav .link {
+    display: none;
+}
+
+nav {
+    padding: 2.5rem 2.5rem;
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    justify-content: space-between;
+}
 
 
 
 
 
+
+
+
+@media screen and (min-width: 520px) {
+}
+
+@media screen and (min-width: 820px){
+
+}
+
+@media screen and (min-width: 1020px) {
+    
+}
+
+@media screen and (min-width: 1420px) {
+    
+}
+
+@media screen and (min-width: 1920px) {
+    
+}
