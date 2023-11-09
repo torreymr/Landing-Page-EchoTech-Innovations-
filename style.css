@@ -113,6 +113,7 @@ section {
 section .text-content {
     border: 1px solid lightgray;
     color: white;
+    border-radius: 10px;
 }
 
 
