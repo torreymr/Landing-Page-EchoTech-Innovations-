@@ -105,5 +105,15 @@ section {
     background-repeat: none;
     height:560px;
     padding: 5rem 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
 }
+
+section .text-content {
+    border: 1px solid lightgray;
+    color: white;
+}
+
+
 
