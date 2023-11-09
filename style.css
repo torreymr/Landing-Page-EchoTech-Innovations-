@@ -17,3 +17,7 @@ header {
     justify-content: space-between;
 }
 
+header .links {
+    display: none;
+}
+
