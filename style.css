@@ -58,3 +58,10 @@ header button {
     }
 
 }
+
+@media screen and (min-width: 1020px){
+    
+    header .links {
+        gap: 15rem;
+    }
+}
