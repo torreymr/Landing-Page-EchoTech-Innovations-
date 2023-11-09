@@ -1,46 +1,4 @@
 
-nav .links a{
-    display: none;
-}
-
-nav .links button {
-    display: none;
-}
-
-nav .links .menu {
-    display: block;
-}
-
-nav {
-    padding: 5rem 5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-nav h1{
-    font-size: 2.4rem;
-}
-
-nav .menu {
-    background: none;
-    border: none;
-}
-
-@media screen and (min-width: 820px){
-    nav .links .menu {
-        display: none;
-    }
-
-    nav {
-        gap: 2.5rem;
-    }
-
-    nav h1 {
-        font-size: 3.2rem;
-    }
-
-}
 
 
 
