@@ -34,6 +34,10 @@ header button {
 }
 
 @media screen and (min-width: 820px){
+    header {
+        padding: 3rem 3rem;
+    }
+
     header button {
         display: none;
     }
