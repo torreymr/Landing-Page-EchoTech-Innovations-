@@ -116,6 +116,7 @@ section .text-content {
     color: white;
     border-radius: 10px;
     padding: 1rem 1rem;
+    font-size: 1.2rem;
 };
 
 
