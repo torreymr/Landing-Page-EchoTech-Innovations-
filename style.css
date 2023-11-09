@@ -11,6 +11,9 @@ html {
     font-size: 62.5%;
 }
 
+/*Header CSS*/
+
+
 header {
     padding: 2rem 1.75rem;
     display: flex;
@@ -93,3 +96,6 @@ header button {
         font-size: 2rem;
     }
 }
+
+
+/*Hero CSS*/
