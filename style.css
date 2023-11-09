@@ -36,6 +36,10 @@ header h1 {
     font-weight: 400;
 }
 
+header h1:hover{
+    cursor:pointer;
+}
+
 header button {
     border:none;
     border-radius: 3px;
