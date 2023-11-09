@@ -32,3 +32,13 @@ header button {
     border-radius: 3px;
     padding: 5px 5px;
 }
+
+@media screen and (min-width: 820px){
+    header button {
+        display: none;
+    }
+
+    header .links {
+        display: flex;
+    }
+}
