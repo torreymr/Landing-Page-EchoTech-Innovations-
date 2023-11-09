@@ -40,5 +40,7 @@ header button {
 
     header .links {
         display: flex;
+        gap: 15rem;
+        font-size: 1.6rem;
     }
 }
