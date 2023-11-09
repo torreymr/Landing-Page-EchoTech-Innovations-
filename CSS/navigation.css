@@ -9,9 +9,28 @@ nav {
     align-items: center;
     font-size: 1.6rem;
     justify-content: space-between;
+    gap: 10rem;
 }
 
+nav .links {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    font-size: 2rem;
+}
 
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav button {
+    text-wrap: nowrap;
+    min-width: 6.5rem;
+    padding: 1rem 1rem;
+    border: none;
+    border-radius: 10%;
+}
 
 
 
@@ -19,11 +38,26 @@ nav {
 
 
 @media screen and (min-width: 520px) {
+    nav h1 {
+        font-size: 2.8rem;
+    }
 }
+
+
 
 @media screen and (min-width: 820px){
+    nav .link {
+        display: block;
+    }
+
+    nav .menu {
+        display: none;
+    }
 
 }
+
+
+
 
 @media screen and (min-width: 1020px) {
     
