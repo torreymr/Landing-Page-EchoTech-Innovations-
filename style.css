@@ -43,4 +43,9 @@ header button {
         gap: 15rem;
         font-size: 1.6rem;
     }
+
+    header .links a {
+        color: black;
+        text-decoration: none;
+    }
 }
