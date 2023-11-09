@@ -123,5 +123,9 @@ section .text-content h1 {
     padding-bottom: 1rem;
 }
 
+section .sign-up-content {
+    text-align: center;
+}
+
 
 
