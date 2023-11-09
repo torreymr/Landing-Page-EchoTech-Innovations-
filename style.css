@@ -99,3 +99,8 @@ header button {
 
 
 /*Hero CSS*/
+section {
+    background-image: url(photos/Landscape-Image-Medium.jpg);
+    background-position: center;
+    background-repeat: none;
+}
