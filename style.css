@@ -74,4 +74,9 @@ header button {
     header h1 {
         font-size: 3rem;
     }
+
+    header .links {
+        gap: 25rem;
+        font-size: 2rem;
+    }
 }
