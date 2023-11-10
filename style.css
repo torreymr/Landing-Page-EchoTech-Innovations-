@@ -173,10 +173,6 @@ section .sign-up-content form p {
     padding: 8px 0 15px 0;
 }
 
-section .sign-up-content form button {
-    padding: 5px;
-}
-
 section .sign-up-content a {
     color: rgb(0, 41, 0)
 }
