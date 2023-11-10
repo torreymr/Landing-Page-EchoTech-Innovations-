@@ -131,6 +131,10 @@ section .sign-up-content {
     border-radius: 10px;
 }
 
+section .sign-up-content h1{
+    padding-bottom: 1rem;
+}
+
 
 
 
