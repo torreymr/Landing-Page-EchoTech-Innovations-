@@ -121,6 +121,7 @@ section .text-content {
 
 section .text-content h1 {
     padding-bottom: 1rem;
+    font-size: 2rem;
 }
 
 section .sign-up-content {
