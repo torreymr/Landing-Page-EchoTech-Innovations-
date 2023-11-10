@@ -237,6 +237,7 @@ section .sign-up-content .sign-up-button {
 
     section .hero-content .text-content{
         max-width: 55%;
+        padding: 0 20px;
     }
 
     section .hero-content .text-content h1 {
