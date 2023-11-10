@@ -251,5 +251,10 @@ section .sign-up-content .sign-up-button {
 }
 
 @media screen and (min-width: 1220px){
-    
+    .background-image {
+        background-image: url(photos/Landscape-Image-Large.jpg);
+        background-repeat: no-repeat;
+        background-position: center top 30%;
+        height: 980px;
+    }
 }
