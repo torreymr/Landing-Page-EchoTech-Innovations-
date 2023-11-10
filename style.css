@@ -261,6 +261,10 @@ section .sign-up-content .sign-up-button {
         height: 980px;
     }
 
+    section {
+        height: 890px;
+    }
+
     section .hero-content {
         padding: 0 10rem;
     }
