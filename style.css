@@ -141,6 +141,17 @@ section .sign-up-content form input{
     margin-bottom: 3px;
 }
 
+section .sign-up-content form p {
+    padding: 8px 0;
+}
+
+section .sign-up-content form button {
+    padding: 5px;
+}
+
+
+
+
 
 
 
