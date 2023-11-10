@@ -210,6 +210,15 @@ section .sign-up-content .sign-up-button {
     section .text-content p {
         font-size: 1.4rem;
     }
+
+    section .sign-up-content form input {
+        margin-bottom: 6px;
+        padding: 2px 0;
+    }
+
+    section .sign-up-content form input::placeholder {
+        text-align: center;
+    }
 }
 
 
