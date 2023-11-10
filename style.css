@@ -137,6 +137,10 @@ section .sign-up-content h1{
     font-size: 2rem;
 }
 
+section .sign-up-content form input{
+    margin-bottom: 3px;
+}
+
 
 
 
