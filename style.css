@@ -271,5 +271,10 @@ section .sign-up-content .sign-up-button {
 
     .sign-up-content {
         height: 300px;
+        width: 40%;
+    }
+
+    .text-content {
+        width: 50%;
     }
 }
