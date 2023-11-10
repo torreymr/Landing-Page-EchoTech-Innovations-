@@ -294,5 +294,19 @@ section .sign-up-content .sign-up-button {
 }
 
 @media screen and (min-width: 1720px){
+    .text-content {
+        width: 35%;
+    }
 
+    section .hero-content .text-content h1 {
+        font-size: 3rem
+    }
+
+    section .hero-content .text-content p {
+        font-size: 2rem
+    }
+
+    .sign-up-content {
+        width: 20%;
+    }
 }
