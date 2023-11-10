@@ -186,6 +186,38 @@ section .sign-up-content .sign-up-button {
     border-radius: 5px;
 }
 
+
+
+
+
+@media screen and (min-width: 520px){
+    section .text-content p {
+        font-size: 1.4rem;
+    }
+    
+    section .sign-up-content form input {
+        margin-bottom: 6px;
+        padding: 2px 0;
+    }
+    
+    section .sign-up-content form input::placeholder {
+        text-align: center;
+    }
+    
+    section .sign-up-content form p {
+        font-size: 1.1rem;
+    }
+    
+    section .sign-up-content form .sign-up-button {
+        font-size: 1.3rem;
+    }
+}
+
+
+
+
+
+
 @media screen and (min-width: 820px){
 
     section {
@@ -201,27 +233,3 @@ section .sign-up-content .sign-up-button {
     }
 
 }
-
-@media screen and (min-width: 520px){
-    section .text-content p {
-        font-size: 1.4rem;
-    }
-
-    section .sign-up-content form input {
-        margin-bottom: 6px;
-        padding: 2px 0;
-    }
-
-    section .sign-up-content form input::placeholder {
-        text-align: center;
-    }
-
-    section .sign-up-content form p {
-        font-size: 1.1rem;
-    }
-
-    section .sign-up-content form .sign-up-button {
-        font-size: 1.3rem;
-    }
-}
-
