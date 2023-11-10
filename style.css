@@ -282,4 +282,13 @@ section .sign-up-content .sign-up-button {
     section .hero-content .text-content p {
         font-size: 1.8rem;
     }
+
+    section .sign-up-content h1 {
+        font-size: 2.2rem;
+    }
+    
+    section .sign-up-content form input {
+        padding: 5px 0;
+        margin-bottom: 9px;
+    }
 }
