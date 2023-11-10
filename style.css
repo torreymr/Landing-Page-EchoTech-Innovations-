@@ -294,6 +294,11 @@ section .sign-up-content .sign-up-button {
 }
 
 @media screen and (min-width: 1720px){
+    section .hero-content {
+        justify-content: center;
+        gap: 20rem;
+    }
+
     .text-content {
         width: 35%;
     }
@@ -313,4 +318,5 @@ section .sign-up-content .sign-up-button {
     section .hero-content .sign-up-content h1 {
         font-size: 2.8rem;
     }
+
 }
