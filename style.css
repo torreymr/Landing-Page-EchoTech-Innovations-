@@ -112,6 +112,7 @@ header button {
 
 
 /*Hero CSS*/
+
 section {
     height: 650px;
     display: flex;
@@ -163,6 +164,10 @@ section .sign-up-content form input{
     margin-bottom: 3px;
 }
 
+section .sign-up-content form input::placeholder {
+    color: lightgrey;
+}
+
 section .sign-up-content form p {
     padding: 8px 0 15px 0;
 }
@@ -199,7 +204,6 @@ section .sign-up-content .sign-up-button {
     }
 
 }
-
 
 
 
