@@ -292,3 +292,7 @@ section .sign-up-content .sign-up-button {
         margin-bottom: 9px;
     }
 }
+
+@media screen and (min-width: 1720px){
+    
+}
