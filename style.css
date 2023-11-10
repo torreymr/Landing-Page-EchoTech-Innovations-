@@ -276,5 +276,10 @@ section .sign-up-content .sign-up-button {
 
     .text-content {
         width: 50%;
+        gap: 2rem;
+    }
+
+    section .hero-content .text-content p {
+        font-size: 1.8rem;
     }
 }
