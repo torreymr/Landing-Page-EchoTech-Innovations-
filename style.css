@@ -156,6 +156,10 @@ section .sign-up-content form button {
     padding: 5px;
 }
 
+section .sign-up-content a {
+    color: rgb(0, 41, 0)
+}
+
 @media screen and (min-width: 820px){
 
     section {
