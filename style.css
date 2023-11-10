@@ -127,7 +127,6 @@ section .sign-up-content {
     text-align: center;
     background-color: rgba(255, 255, 255, 0.9);
     padding: 1rem 1rem;
-    border: 1px solid white;
     color: black;
     border-radius: 10px;
 }
