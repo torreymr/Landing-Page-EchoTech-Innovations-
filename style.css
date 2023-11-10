@@ -236,4 +236,8 @@ section .sign-up-content .sign-up-button {
         max-width: 55%;
     }
 
+    section .hero-content .text-content p {
+        font-size:1.6rem;
+    }
+
 }
