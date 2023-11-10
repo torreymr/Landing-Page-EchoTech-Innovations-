@@ -19,6 +19,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    color: white;
 }
 
 header .links {
@@ -26,12 +27,12 @@ header .links {
 }
 
 header .links a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 header .links a:hover{
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid white;
 }
 
 header h1 {
