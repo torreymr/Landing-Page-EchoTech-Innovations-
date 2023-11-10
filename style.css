@@ -125,10 +125,10 @@ section .text-content h1 {
 
 section .sign-up-content {
     text-align: center;
-    background-color: rgba(128, 128, 128, 0.5);
+    background-color: rgba(255, 255, 255, 0.9);
     padding: 1rem 1rem;
     border: 1px solid white;
-    color: white;
+    color: black;
     border-radius: 10px;
 }
 
