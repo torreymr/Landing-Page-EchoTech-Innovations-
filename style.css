@@ -115,7 +115,7 @@ section .text-content {
     background-color: rgba(128, 128, 128, 0.5);
     color: white;
     border-radius: 10px;
-    padding: 1rem 1rem;
+    padding: 1.5rem 1rem;
     font-size: 1.2rem;
 }
 
@@ -126,7 +126,7 @@ section .text-content h1 {
 section .sign-up-content {
     text-align: center;
     background-color: rgba(255, 255, 255, 0.9);
-    padding: 1rem 1rem;
+    padding: 1.5rem 1rem;
     color: black;
     border-radius: 10px;
 }
