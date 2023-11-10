@@ -151,6 +151,9 @@ section .sign-up-content {
     padding: 1.5rem 1rem;
     color: black;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 section .sign-up-content h1{
