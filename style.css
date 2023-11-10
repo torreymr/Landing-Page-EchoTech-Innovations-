@@ -219,6 +219,10 @@ section .sign-up-content .sign-up-button {
     section .sign-up-content form input::placeholder {
         text-align: center;
     }
+
+    section .sign-up-content form p {
+        font-size: 1.1rem;
+    }
 }
 
 
