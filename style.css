@@ -104,11 +104,16 @@ section {
     background-position: center;
     background-repeat: none;
     height:660px;
+
+}
+
+section .hero-content {
     padding: 5rem 5rem;
     display: flex;
     flex-direction: column;
     gap: 5rem;
 }
+
 
 section .text-content {
     border: 1px solid white;
@@ -149,7 +154,11 @@ section .sign-up-content form button {
     padding: 5px;
 }
 
+@media screen and (min-width: 820px){
 
+
+
+}
 
 
 
