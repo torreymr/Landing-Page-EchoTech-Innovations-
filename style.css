@@ -257,4 +257,8 @@ section .sign-up-content .sign-up-button {
         background-position: center top 30%;
         height: 980px;
     }
+
+    .sign-up-content {
+        height: 400px;
+    }
 }
