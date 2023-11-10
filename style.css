@@ -262,7 +262,7 @@ section .sign-up-content .sign-up-button {
     }
 
     section {
-        height: 890px;
+        height: 860px;
     }
 
     section .hero-content {
@@ -294,5 +294,5 @@ section .sign-up-content .sign-up-button {
 }
 
 @media screen and (min-width: 1720px){
-    
+
 }
