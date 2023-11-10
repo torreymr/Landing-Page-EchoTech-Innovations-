@@ -219,7 +219,9 @@ section .sign-up-content .sign-up-button {
     section .sign-up-content form p {
         font-size: 1.1rem;
     }
+
+    section .sign-up-content form .sign-up-button {
+        font-size: 1.3rem;
+    }
 }
-
-
 
