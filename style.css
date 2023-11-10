@@ -232,4 +232,8 @@ section .sign-up-content .sign-up-button {
         gap: 5rem;
     }
 
+    section .hero-content .text-content{
+        max-width: 55%;
+    }
+
 }
