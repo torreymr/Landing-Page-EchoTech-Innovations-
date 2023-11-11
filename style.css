@@ -321,3 +321,16 @@ section .sign-up-content .sign-up-button {
     }
 
 }
+
+
+/*Footer CSS*/
+
+footer {
+    padding: 2rem 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: .9rem;
+    background-color: rgb(0, 41, 0);
+    color: darkgrey;
+}
