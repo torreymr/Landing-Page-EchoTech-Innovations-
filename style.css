@@ -338,3 +338,10 @@ footer {
 footer .middle{
     padding-right: 30px;
 }
+
+footer .socials {
+    display: flex;
+    gap: 15px;
+}
+
+ 
